@@ -19,6 +19,6 @@ a[href^='mailto']{
   color: inherit;
 }
 
-a[href^='mailto']{
+a[href^='mailto']:hover{
   text-decoration: underline;
 }
