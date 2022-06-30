@@ -20,5 +20,5 @@ a[href^='mailto']{
 }
 
 a[href^='mailto']:hover{
-  text-decoration: underline;
+  color: #015fc9;
 }
