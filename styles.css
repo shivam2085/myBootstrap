@@ -22,3 +22,7 @@ a[href^='mailto']{
 a[href^='mailto']:hover{
   color: #015fc9;
 }
+
+.faq{
+  padding: 0;
+}
