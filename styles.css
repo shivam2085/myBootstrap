@@ -23,6 +23,20 @@ a[href^='mailto']:hover{
   color: #015fc9;
 }
 
-.faq{
-  padding: 0;
+.mfa-icon{
+  padding-left: 217px;
+}
+
+.mfa{
+  padding: 0 10px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.fa-brands{
+  padding: 0 15px;
+}
+
+.icon{
+  margin-left: 25px;
 }
