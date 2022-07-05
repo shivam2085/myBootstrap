@@ -24,7 +24,7 @@ a[href^='mailto']:hover{
 }
 
 .mfa-icon{
-  padding-left: 217px;
+  padding-left: 210px;
 }
 
 .mfa{
@@ -35,6 +35,8 @@ a[href^='mailto']:hover{
 
 .fa-brands{
   padding: 0 15px;
+  color: white;
+  font-size: 16px;
 }
 
 .icon{
