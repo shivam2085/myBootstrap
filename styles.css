@@ -42,3 +42,7 @@ a[href^='mailto']:hover{
 .icon{
   margin-left: 25px;
 }
+
+.logo{
+  padding: 64px 0;
+}
