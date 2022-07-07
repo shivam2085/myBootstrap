@@ -57,13 +57,13 @@ a[href^='mailto']:hover {
 }
 
 .btn {
+
   padding: 0;
   border-radius: 0px 6px 6px 0px;
 }
 
-.btn:hover {
-  background-color: black;
-  color: white!important;
+.btn-primary{
+  color: white;
 }
 
 .call{
