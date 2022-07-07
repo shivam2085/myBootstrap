@@ -32,7 +32,7 @@ a[href^='mailto']:hover {
 
 .bg-col {
   background-color: #f2f5f9 !important;
-  color: black;
+  color: #212529;
   border-radius: 6px;
 }
 
@@ -54,4 +54,14 @@ a[href^='mailto']:hover {
 
 .logo {
   padding: 10px 0;
+}
+
+.btn {
+  padding: 0;
+  border-radius: 0px 6px 6px 0px;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white!important;
 }
