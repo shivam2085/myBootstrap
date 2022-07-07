@@ -2,47 +2,56 @@
   box-sizing: border-box;
 }
 
-
-header{
+header {
   background-color: #16243d;
   color: #97a2b7;
   padding: 10px 0;
   font-size: 13px;
 }
 
-header p{
-  margin-bottom: 0!important;
+header p {
+  margin-bottom: 0 !important;
 }
 
-a[href^='mailto']{
+a[href^='mailto'] {
   text-decoration: none;
   color: inherit;
 }
 
-a[href^='mailto']:hover{
+a[href^='mailto']:hover {
   color: #015fc9;
 }
 
-.mfa-icon{
+.mfa-icon {
   padding-left: 210px;
 }
 
-.mfa{
+.bg-light {
+  background-color: white !important;
+}
+
+.bg-col {
+  background-color: #f2f5f9 !important;
+  color: black;
+  border-radius: 6px;
+}
+
+.mfa {
   padding: 0 10px;
   text-decoration: none;
   color: inherit;
 }
 
-.fa-brands{
+.fa-brands {
   padding: 0 15px;
   color: white;
   font-size: 16px;
 }
 
-.icon{
+.icon {
   margin-left: 25px;
 }
 
-.logo{
+.logo {
   padding: 10px 0;
 }
