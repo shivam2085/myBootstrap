@@ -65,3 +65,10 @@ a[href^='mailto']:hover {
   background-color: black;
   color: white!important;
 }
+
+.call{
+  width: 10px;
+  height: 10px;
+  border: 1px solid ;
+  border-radius: 100%;
+}
