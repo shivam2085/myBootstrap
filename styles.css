@@ -26,10 +26,6 @@ a[href^='mailto']:hover {
   padding-left: 210px;
 }
 
-.bg-light {
-  background-color: white !important;
-}
-
 .bg-col {
   background-color: #f2f5f9 !important;
   color: #212529;
@@ -62,8 +58,27 @@ a[href^='mailto']:hover {
   border-radius: 0px 6px 6px 0px;
 }
 
-.btn-primary{
-  color: white;
+header .fa-solid{
+  color: #015fc9;
+}
+.navbar {
+  padding: 30px 0;
+}
+
+.nav-link {
+  padding: 18px 24px !important;
+  font-weight: 600;
+}
+.logo {
+  margin-right: 44px;
+}
+
+.bg-light {
+  background-color: #fff !important;
+}
+
+.nav-item .btn-primary {
+  color: #ffff !important;
 }
 
 .call{
