@@ -70,7 +70,7 @@ header .fa-solid{
   font-weight: 600;
 }
 .logo {
-  margin-right: 44px;
+  margin-right: 70px;
 }
 
 .bg-light {
@@ -79,11 +79,41 @@ header .fa-solid{
 
 .nav-item .btn-primary {
   color: #ffff !important;
+  background-color: #015fc9;
+}
+.nav-item .btn-primary:hover {
+  color: #ffff !important;
+  background-color: black;
 }
 
-.call{
-  width: 10px;
-  height: 10px;
-  border: 1px solid ;
-  border-radius: 100%;
+.nav-link .fa-solid{
+  border-left: 1px solid rgb(160, 160, 160);
+  padding-left: 6px;
 }
+
+.phone-icon {
+  color: #0ce0ff;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  border-radius: 30px;
+  border: 2px solid #97a2b7;
+  text-align: center;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.phone-icon:hover{
+  background-color: #015fc9;
+}
+
+.phone {
+  color: #16243d;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.navbar-right {
+  margin-right: 20px;
+}
+
