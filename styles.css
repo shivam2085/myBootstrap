@@ -83,7 +83,7 @@ header .fa-solid{
 }
 .nav-item .btn-primary:hover {
   color: #ffff !important;
-  background-color: black;
+  background-color: rgb(37, 24, 24);
 }
 
 .nav-link .fa-solid{
@@ -121,5 +121,3 @@ header .fa-solid{
 .navbar-right {
   margin-right: 20px;
 }
-
-
