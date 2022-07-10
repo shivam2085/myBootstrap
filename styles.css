@@ -125,13 +125,12 @@ header .fa-solid{
 /*carousel start here*/
 
 .carousel{
-  height: 680px;
   overflow: hidden;
+  background-color: #f0f3f8;
 }
 
 .carousel-item{
   height: 680px;
-  background-color: rebeccapurple;
 }
 
 .item-1{
@@ -147,4 +146,11 @@ header .fa-solid{
 .item-3{
   background: url(https://layerdrops.com/insur/main-html/assets/images/backgrounds/main-slider-1-1.jpg) no-repeat right center;
   background-size: contain;
+}
+
+.carousel-caption{
+  color: #16243d;
+  left: 8%;
+  top: 100px;
+  text-align: left;
 }
