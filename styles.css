@@ -190,3 +190,8 @@ h2{
   color: black;
   font-size: 50px;
 }
+
+.carousel-control-prev{
+  top: -20%;
+  left: 85%;
+}
