@@ -126,7 +126,7 @@ header .fa-solid{
 
 .carousel{
   overflow: hidden;
-  background-color: #f0f3f8;
+  background-color: #f3f3f6;
 }
 
 .carousel-item{
@@ -169,7 +169,7 @@ h2{
 
 .carousel-caption p{
   font-size: 18px;
-  color: #696e77;
+  color: #1b1c1d;
   font-weight: 400;
   padding-bottom: 41px;
 }
@@ -184,5 +184,9 @@ h2{
 
 .carousel-caption .btn-primary:hover {
   background-color: black !important;
-  
+}
+
+.fa-circle-arrow-left, .fa-circle-arrow-right{
+  color: black;
+  font-size: 50px;
 }
